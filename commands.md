@@ -46,3 +46,16 @@ git push -u origin main
 git pull
 ```
 
+```sh
+git init
+```
+
+```sh
+git git remote add origin http://...
+```
+
+## Create main branch at the Remote Repository
+```sh
+git push --set-upstream origin main
+```
+
